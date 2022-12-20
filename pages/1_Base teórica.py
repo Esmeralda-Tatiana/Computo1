@@ -1,18 +1,10 @@
-import streamlit as st
-import streamlit as st
-from PIL import Image
-import pandas as pd
-import streamlit as st
-import numpy as np
-import seaborn as sns
-    
+   
 # Contents of ~/my_app/streamlit_app.py
 import streamlit as st
 from PIL import Image
 import pandas as pd
 import streamlit as st
 import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
  
 
